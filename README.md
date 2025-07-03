@@ -23,3 +23,13 @@ Built with:
 
 ## 📁 Project Structure
 
+BrainWave/
+├── Data/
+│ └── mental_health_dataset.csv
+├── model/
+│ ├── mental_health_model.pkl
+│ ├── label_encoder.pkl
+│ └── model_features.pkl
+├── Mental Health.py ← Model training & preprocessing
+├── M-app.py ← Streamlit web app
+├── README.md
